@@ -1,0 +1,7 @@
+﻿PVObject_=pvLoad
+  Comment=Unlimited load (grid)
+  Version=7.4.6
+  Flags=$00
+  UsesModul=Yearly
+  Energy Units=kW
+End of PVObject pvLoad
